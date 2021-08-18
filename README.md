@@ -1,2 +1,2 @@
-# old-red-barn
-The Old Red Barn is a farm story for children. 
+# Old Red Barn
+Simple static site for the Old Red Barn farm story. 
